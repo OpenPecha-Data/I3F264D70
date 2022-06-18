@@ -1,0 +1,38 @@
+id: I3F264D70
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T00:59:15.027977'
+last_modified: '2022-06-19T00:59:15.027994'
+parser: null
+source_metadata:
+  title: Eulogy of the Disciples in the Lineage of rDo rje gdan pa Kun dga rnam rgyal
+    (1432-1496)
+  author: mi gsal/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2015-04-26); converted from external file, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:blo gsal don grub/ (ld)
+  - Editorial process:Mathias Fermer (mf), blo gsal don grub/ (ld)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/391
+  bases:
+    2a0b:
+      title: Eulogy of the Disciples in the Lineage of rDo rje gdan pa Kun dga rnam
+        rgyal (1432-1496)
+      order: 1
+      base_file: 2a0b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
